@@ -29,7 +29,7 @@ github_username:  biplob1ly
 
 # Build settings
 markdown: kramdown
-remote_theme: poole/lanyon
+theme: minima
 plugins:
   - jekyll-feed
 
